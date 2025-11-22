@@ -17,4 +17,6 @@ Este projeto visa aplicar técnicas de Análise de Dados para identificar padrõ
 * [Concluído]
 
 ---
-Feito por Borys Ever Tito Calderon | Estudante de Sistemas de Informação - 5º Semestre
+#### Autor e Afiliação
+Feito por **Borys Ever Tito Calderon** | Estudante de Sistemas de Informação - 5º Semestre
+---
