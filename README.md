@@ -15,6 +15,5 @@ Este projeto visa aplicar técnicas de Análise de Dados para identificar padrõ
 
 ## 🔎 Status da Análise
 * [Concluído]
-
 ***
 Autor: **Borys Ever Tito Calderon** | Estudante de Sistemas de Informação - 5º Semestre
